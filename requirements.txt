@@ -1,4 +1,4 @@
 #requirements.txt
-snowflake-snowpark-python
-streamlit
+snowflake-snowpark-python  # same for pending order app
+streamlit # same for pending order app
 requests
