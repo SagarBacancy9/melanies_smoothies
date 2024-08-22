@@ -37,3 +37,4 @@ if my_dataframe:
             st.write("Something Went Wrong.", exc)
 else:
     st.success("There are no Pending Orders right now", icon="👍")
+st.experimental_rerun()
